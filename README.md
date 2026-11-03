@@ -2,7 +2,7 @@
 
 A mobile-first birthday website built with HTML, CSS and JavaScript.
 
-Open `index.html` in a browser. Everything is included in that one file, with no install or build step and no external image dependencies.
+Keep `index.html`, `style.css` and `script.js` together in one folder and open `index.html` in a browser. No install or build step, and no external image dependencies.
 
 ## Features
 
@@ -13,4 +13,4 @@ Open `index.html` in a browser. Everything is included in that one file, with no
 - An illustrated gallery with a full-screen viewer
 - A letter, confetti and an optional birthday tune
 
-The pictures are original SVG illustrations embedded in the page. Text, colours and game pictures can be changed directly in `index.html`.
+The pictures are original SVG illustrations embedded in the code. Text lives in `index.html`, colours and styling in `style.css`, and interactions and game pictures in `script.js`.
